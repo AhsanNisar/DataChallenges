@@ -10,4 +10,6 @@ Utilizes VBA coding to analyze the Stock data
 
 Utilizes Matplotlib library to plot ride sharing data in different cities using Series of Bar charts, Pie charts and Bubble charts
 
-#
+# Pandas Pymoli 
+
+Analyzes the game company data using Pandas to look at the profitability of different games
