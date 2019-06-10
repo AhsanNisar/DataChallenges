@@ -1,2 +1,5 @@
-# Homeworks
-Homework submission for Data Analytics and Visualization Boot camp
+# Kick start my chart 
+
+## Looks deep into of Startups in different cities using Excel
+
+# VB
